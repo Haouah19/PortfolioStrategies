@@ -1,4 +1,4 @@
-# Protfolio Strategies
+# Portfolio Strategies
 ***
 
 The project is based on the Excel file *sbf120_as_of_end_2018.xlsx* that contains prices of SBF 120 components (as of end 2018) over the period 2011-now.
